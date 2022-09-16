@@ -11,6 +11,7 @@ select count(*) from patient;
 
 -- Q1 Afficher la table séjour 
 
+select * from sejour;
 
 -- where
 ------------------------------------------------------------------ 
